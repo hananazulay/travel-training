@@ -1,4 +1,4 @@
-H1{
+h1{
   font-size: 100px;
   font-family: fantasy;
   color: navy;
@@ -15,6 +15,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+
 }
 .center{
   color: navy;
@@ -27,7 +28,7 @@ font-size:40px;
 text-align: center;
 color:navy;
 }
-HR{
+hr{
 
 border-color: BLUE;
 border-top: 50px;
